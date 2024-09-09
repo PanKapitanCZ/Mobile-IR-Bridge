@@ -1,1 +1,3 @@
-This is readme file later I will edit it
+# Mobile IR Bridge
+
+_This README is under construction and will be updated soon._
