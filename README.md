@@ -3,9 +3,9 @@
 This mobile app is designed to work in tandem with an ESP32-based device to capture and replay infrared (IR) signals from remote controls like TV, amplifier, or RGB controllers. Using Bluetooth, the app communicates with the ESP32 to record IR signals and bind them to custom buttons in the app for easy re-transmission.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a06a844f-322d-435c-93a6-67e4fe166b8d" alt="image1" width="307"/>
-  <img src="https://github.com/user-attachments/assets/28524f31-5243-42f4-bd42-e8bc1e1f2ff6" alt="image2" width="302"/>
-  <img src="https://github.com/user-attachments/assets/c2f8dc87-7725-4313-bcb9-8013558ff57a" alt="image3" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a06a844f-322d-435c-93a6-67e4fe166b8d" alt="image1" width="257"/>
+  <img src="https://github.com/user-attachments/assets/28524f31-5243-42f4-bd42-e8bc1e1f2ff6" alt="image2" width="252"/>
+  <img src="https://github.com/user-attachments/assets/c2f8dc87-7725-4313-bcb9-8013558ff57a" alt="image3" width="250"/>
 </p>
 
 ## About the App
