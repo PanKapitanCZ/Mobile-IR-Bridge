@@ -40,6 +40,10 @@ The ESP32 IR Signal Recorder Repository is under construction and will be availa
    ```bash
    git clone https://github.com/PanKapitanCZ/Mobile-IR-Bridge.git
 
+## Feedback
+
+I've been using ChatGPT extensively for learning and developing this app. If you encounter any issues or have suggestions for improvement, feel free to let me know. I’d be happy to hear your thoughts and make adjustments!
+
 ## Attribution
 
 This project uses icons from the following sources:
