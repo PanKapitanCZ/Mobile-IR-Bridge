@@ -30,9 +30,7 @@ This app simplifies controlling multiple IR devices from your mobile phone. Inst
 
 ## Prerequisites
 
-To use this app, you'll need an ESP32 device configured to receive and transmit IR signals. The setup for the ESP32, including wiring and code, can be found in the [ESP32 IR Signal Recorder Repository](https://github.com/yourusername/esp32-ir-signal-recorder).
-
-The ESP32 IR Signal Recorder Repository is under construction and will be available soon
+To use this app, you'll need an ESP32 device configured to receive and transmit IR signals. The setup for the ESP32, including wiring and code, can be found in the [ESP32_Bluetooth_IR_Receiver](https://github.com/PanKapitanCZ/ESP32_Bluetooth_IR_Receiver).
 
 ## Installation
 
